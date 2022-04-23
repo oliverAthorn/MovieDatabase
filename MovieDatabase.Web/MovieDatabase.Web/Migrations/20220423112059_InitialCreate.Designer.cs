@@ -12,7 +12,7 @@ using MovieDatabase.Web.Data;
 namespace MovieDatabase.Web.Migrations
 {
     [DbContext(typeof(MovieDatabaseWebContext))]
-    [Migration("20220423110306_InitialCreate")]
+    [Migration("20220423112059_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
